@@ -6,6 +6,7 @@ Users can register, log in, and manage their own tasks, while administrators hav
 This project was built as part of my backend development learning.
 
 ### Features
+
 - User registration and authentication
 - Secure password hashing (handled by Django)
 - Create, update, and delete tasks
@@ -17,12 +18,14 @@ This project was built as part of my backend development learning.
 - Basic HTML templates for task management
 
 ### Tech Stack
+
 - Backend: Python, Django
 - Database: PostgreSQL
 - Frontend: HTML(basic templates)
 - Authentication: Django built-in authentication system
 
 ### Installation
+
 1. Clone the repo
 ```bash
 git clone https://github.com/Subomi194/django-101.git
