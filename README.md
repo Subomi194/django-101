@@ -1,11 +1,11 @@
-###Task Manager
+### Task Manager
 
 A simple Task Manager web application built with Django that allows users to create, manage, and track their tasks.
 Users can register, log in, and manage their own tasks, while administrators have access to all tasks.
 
 This project was built as part of my backend development learning, focusing on authentication, database configuration, and role-based access control.
 
-##Features
+## Features
 - User registration and authentication
 - Secure password hashing (handled by Django)
 - Create, update, and delete tasks
@@ -16,13 +16,13 @@ This project was built as part of my backend development learning, focusing on a
 - PostgreSQL database integration
 - Basic HTML templates for task management
 
-##Tech Stack
+## Tech Stack
 - Backend: Python, Django
 - Database: PostgreSQL
 - Frontend: HTML, CSS (basic templates)
 - Authentication: Django built-in authentication system
 
-##Installation
+## Installation
 1. Clone the repo: 
 git clone https://github.com/Subomi194/django-101.git
 cd django-101
